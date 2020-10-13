@@ -12,6 +12,7 @@ function returnJson() {
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
     "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-conh0%40nubae-c1b63.iam.gserviceaccount.com"
   }
+
   return json;
 }
 
