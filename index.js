@@ -1,4 +1,4 @@
-import returnJson from "./ConfigServiceAccountKey"
+import returnJson from "./Config/ConfigServiceAccountKey"
 
 var admin = require("firebase-admin");
 // var serviceAccount = {
